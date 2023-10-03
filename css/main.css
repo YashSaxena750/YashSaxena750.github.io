@@ -24,7 +24,7 @@
     border: 1px;
     border-style: solid;
     size: 1px;
-    width: 57.5%;
+    width: 28.5%;
 }
 
 #spoints{
@@ -60,7 +60,7 @@
     border-style: solid;
     size: 1px;
     margin-top: 20px;
-    width: 57.5%;
+    width: 28.5%;
 }
 
 #tdata{
@@ -70,17 +70,57 @@
 
 #keybox{
 
-    width: 66.5%;
+    width: 29.7%;
 }
+
 
 /* side box */
 
 #contact{
 
     
-
+    text-align: center;
     font-size:x-large;
-    margin-left: 72%;
+    margin-left: -70%;
+    color: white;
+    
+}
+#skills{
+
+    
+    text-align: center;
+    font-size:x-large;
+    margin-left: -62%;
+    color: white;
+    
+}
+
+#skill{
+
+    
+    text-align: center;
+    font-size:x-large;
+    margin-left: -62%;
+    color: white;
+    
+}
+
+#education{
+
+    
+    text-align: center;
+    font-size:x-large;
+    margin-left: -62%;
+    color: white;
+    
+}
+
+#cert{
+
+    
+    text-align: center;
+    font-size:x-large;
+    margin-left: -53%;
     color: white;
     
 }
@@ -88,19 +128,26 @@
 #sidebox{
     
     
-    margin-left: 640px;
-    margin-top: -2750px;
+    margin-left: 940px;
+    margin-top: -2700px;
     background-color: #333F50;
     /* text-align: start; */
-    width: 40%;
-    height: 10%;
+
+    width: fit-content;
+    height: fit-content;
+    
 }
 
+.center {
+    text-align: center;
+  }
+
 #conline{
-    margin-left: 150px;
+    margin-left: 10px;
     border: 1px;
     border-style: solid;
     size: 1px;
     margin-top: -30px;
     width: 57.5%;
+    color: white;
 }
