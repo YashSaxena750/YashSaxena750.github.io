@@ -63,6 +63,33 @@
     width: 28.5%;
 }
 
+#proline{
+    margin-left: 10px;
+    border: 1px;
+    border-style: solid;
+    size: 1px;
+    margin-top: 20px;
+    width: 100%;
+}
+
+#tline{
+    margin-left: 10px;
+    border: 1px;
+    border-style: solid;
+    size: 1px;
+    margin-top: 20px;
+    width: 100%;
+}
+
+#pline{
+    margin-left: 10px;
+    border: 1px;
+    border-style: solid;
+    size: 1px;
+    margin-top: 20px;
+    width: 100%;
+}
+
 #tdata{
     margin-left: 10px;
 }
@@ -127,12 +154,11 @@
 
 #sidebox{
     
-    
-    margin-left: 940px;
-    margin-top: -2700px;
+    font-family: Arial;
+    margin-left: 950px;
+    margin-top: -2450px;
     background-color: #333F50;
     /* text-align: start; */
-
     width: fit-content;
     height: fit-content;
     
